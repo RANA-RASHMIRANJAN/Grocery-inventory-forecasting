@@ -1,0 +1,15 @@
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\controller\ApiExceptionHandler.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\controller\InventoryController.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\controller\ProductController.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\dto\InventoryResponse.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\dto\ProductRequest.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\dto\ProductResponse.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\dto\ProductUpdateRequest.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\dto\RestockRequest.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\entity\Inventory.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\entity\Product.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\GroceryInventoryApplication.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\repository\InventoryRepository.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\repository\ProductRepository.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\service\InventoryService.java
+D:\Major Project(Demand Forecast)\backend\src\main\java\com\grocery\inventory\service\ProductService.java

@@ -1,0 +1,15 @@
+com\grocery\inventory\repository\InventoryRepository.class
+com\grocery\inventory\controller\InventoryController.class
+com\grocery\inventory\service\InventoryService.class
+com\grocery\inventory\dto\ProductUpdateRequest.class
+com\grocery\inventory\dto\RestockRequest.class
+com\grocery\inventory\GroceryInventoryApplication.class
+com\grocery\inventory\repository\ProductRepository.class
+com\grocery\inventory\dto\ProductResponse.class
+com\grocery\inventory\entity\Inventory.class
+com\grocery\inventory\service\ProductService.class
+com\grocery\inventory\dto\InventoryResponse.class
+com\grocery\inventory\controller\ProductController.class
+com\grocery\inventory\controller\ApiExceptionHandler.class
+com\grocery\inventory\dto\ProductRequest.class
+com\grocery\inventory\entity\Product.class

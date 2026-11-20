@@ -1,0 +1,17 @@
+package com.grocery.inventory.controller;
+
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ProblemDetail;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class ApiExceptionHandler {
+
+    @ExceptionHandler(DataIntegrityViolationException.class)
+    public ProblemDetail handleDataIntegrityViolation() {
+        return ProblemDetail.forStatusAndDetail(HttpStatus.CONFLICT,
+                "The request conflicts with existing product or inventory data.");
+    }
+}
